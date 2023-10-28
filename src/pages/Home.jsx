@@ -43,7 +43,7 @@ const Home = () => {
     useEffect(() => {
         
 
-        fetch('http://localhost:5000/api/testimonials') 
+        fetch('https://pistons-backend-server.onrender.com/api/testimonials') 
             .then(response => response.json())
             .then(data => {
                 console.log(data);
