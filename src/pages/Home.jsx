@@ -216,7 +216,7 @@ const Home = () => {
 
 
                         <div className='d-flex flex-column align-items-center  text-white p-4' style={{ position: "absolute", top: "0", width: "100%" }}>
-                            <div className=" oxygenfont  " style={{ letterSpacing: "5px", marginTop: "3%", fontSize: "160%", marginBottom: "4%" }}>WHERE QUALITY MEETS CLASS.</div>
+                            <div className=" oxygenfont  " style={{ letterSpacing: "5px", marginTop: "7%", fontSize: "100%", marginBottom: "9%" }}>WHERE QUALITY MEETS CLASS.</div>
                             <div className=' oxygenfont' style={{ transform: "translateX(-10px) rotate(1deg)", marginBottom: "8%", fontSize: "200%",marginTop:"2%" }}>
                                 <div >
                                     <span className="M">M</span>
