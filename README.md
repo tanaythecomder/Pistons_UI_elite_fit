@@ -1,8 +1,4 @@
-# React + Vite
+# Piston UI Elite Fit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The working link of the site is available here : https://653cdb6b210f0d6fd2dfc3c6--subtle-hamster-f9c34b.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
