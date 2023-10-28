@@ -318,11 +318,11 @@ const Home = () => {
                     <div className="row " >
 
                         {
-                            data.map((test) => {
+                            data.map((test,index) => {
                                 { console.log(hoveredTestimonial[test.name]) }
                                 return (
                                     <>
-                                        <div key={test.name} className="col-md-6 col-lg-3 col-12 py-4 d-flex justify-content-center "
+                                        <div key={index} className="col-md-6 col-lg-3 col-12 py-4 d-flex justify-content-center "
 
                                         >
                                             {
