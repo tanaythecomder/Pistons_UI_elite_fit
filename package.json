@@ -1,4 +1,5 @@
 {
+  "homepage": "https://tanaythecomder.github.io/Pistons_UI_elite_fit",
   "name": "elite-assignment",
   "private": true,
   "version": "0.0.0",
@@ -7,12 +8,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy":"gh-pages -d build"
   },
   "dependencies": {
     "axios": "^1.6.0",
     "bootstrap": "^5.3.2",
     "fetch": "^1.1.0",
+    "gh-pages": "^6.0.0",
     "node-fetch": "^3.3.2",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
