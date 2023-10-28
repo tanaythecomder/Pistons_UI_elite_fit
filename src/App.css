@@ -1,0 +1,13 @@
+
+
+@media (min-width: 990px){
+  .not-visible-on-maxwidth-762px{
+    display: none;
+  }
+  .visible-on-maxwidth-762px{
+    display:block !important
+  }
+}
+.visible-on-maxwidth-762px{
+  display: none;
+}
